@@ -1,6 +1,6 @@
 #### for XOOPS 2.5.7/ XOOPS 2.5.8
       
-![logoModule.png](en/assets/logoModule.png)
+![](en/assets/logoModule.png)
             
 ## User Manual
 
@@ -33,7 +33,7 @@ All used templates on user side are fully responsive.
 * [Module Credits](en/book/9credits.md)
 * 
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
